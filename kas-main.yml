@@ -3,7 +3,7 @@ header:
     
 distro: poky
 machine: qemux86-64
-target: core-image-minimal
+target: sirius-core-image
 
 repos:
   poky:
