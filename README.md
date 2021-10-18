@@ -1,4 +1,4 @@
-# Kas-build for Yocto environment Setup
+# Kas-build system for Yocto build
 
 ## Install Pre-requisite
 ```
@@ -18,4 +18,3 @@ $ vim kas-main.yml
 ```
 $ kas build kas-main.yml
 ```
-In the output you will get core-image-minimal created bydefault
