@@ -1,9 +1,10 @@
 # Kas-build for Yocto environment Setup
 
 # Install Pre-requisite
-sudo apt-get install python3.6
-pip3 install kas
-
+```
+$ sudo apt-get install python3.6
+$ pip3 install kas
+```
 # Create virtual environment in python
 python3 -m venv kasdemo
 source kasdemo/bin/activate
