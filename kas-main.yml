@@ -3,7 +3,7 @@ header:
     
 distro: poky
 machine: qemux86-64
-target: sirius-core-image
+target: sirius-dev-image
 
 repos:
   poky:
